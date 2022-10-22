@@ -7,8 +7,6 @@ public class Cadastro {
 	private int quartos;
 	
 	public Cadastro() {
-		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Cadastro(String nome, String email, int quartos) {
